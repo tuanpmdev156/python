@@ -4,7 +4,7 @@
 
 import unittest
 
-from wordy import (
+from completed.wordy.wordy import (
     answer,
 )
 
